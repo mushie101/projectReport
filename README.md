@@ -35,3 +35,6 @@
 + release 0.0.1-alpha
 + Integrated aforementioned application with Atirek's pane application.
 + Library was accepted as a deliverable
+
+Confirmation of the afore-mentioned claims: https://gitlab.com/users/mushie103/activity
+                                            https://gitlab.com/vlead-projects/experiments/js-lib/bubblesort-demo/tree/literate/src/realisation/worklog
