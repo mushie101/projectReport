@@ -36,5 +36,5 @@
 + Integrated aforementioned application with Atirek's pane application.
 + Library was accepted as a deliverable
 
-Confirmation of the afore-mentioned claims: https://gitlab.com/users/mushie103/activity
-                                            https://gitlab.com/vlead-projects/experiments/js-lib/bubblesort-demo/tree/literate/src/realisation/worklog
+Confirmation of the afore-mentioned claims: https://gitlab.com/users/mushie103/activity (commit history)
+                                            https://gitlab.com/vlead-projects/experiments/js-lib/bubblesort-demo/tree/literate/src/realisation/worklog (React library worklog)
