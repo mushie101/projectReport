@@ -11,6 +11,8 @@
 + Later specs for library changed to template based random graphs and no pure random graphs (pseudo-random).
 + All visual components were linked to background data structures which updated in real time.
 + Development for the library was called off and the library was accepted as a deliverable.
++ commit log 1 : https://gitlab.com/vlead-projects/experiments/ds-tree-graph-visualizations/commits/master
++ commit log 2 : https://gitlab.com/mushie103/GraphLibrary/commits/master
 ## VLEAD month 2: -
 + In pursuit of completing the library I start working with Prof. Venkatesh Chopella.
 + Designed and decided on initial model for development.
@@ -35,6 +37,7 @@
 + release 0.0.1-alpha
 + Integrated aforementioned application with Atirek's pane application.
 + Library was accepted as a deliverable
++ commit log: https://gitlab.com/vlead-projects/experiments/js-lib/bubblesort-demo/commits/master
 
 Confirmation of the afore-mentioned claims: https://gitlab.com/users/mushie103/activity (commit history)
                                             https://gitlab.com/vlead-projects/experiments/js-lib/bubblesort-demo/tree/literate/src/realisation/worklog (React library worklog)
